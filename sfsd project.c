@@ -1150,7 +1150,7 @@ int main(){
     char filename[50], nomFichier[20];
     FILE *fichierMemoire;
     int choix, n, id;
-    Produit nouveauProduit
+    Produit nouveauProduit;
 
     //initialisation de la memoire secondaire
     initMs(ms);
